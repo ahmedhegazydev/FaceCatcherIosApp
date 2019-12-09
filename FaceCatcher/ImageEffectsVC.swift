@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ImageEffectsVC.swift
 //  FaceCatcher
 //
 //  Created by ah on 12/8/19.
@@ -8,13 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ImageEffectsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
+    
 
-
+    
+    
 }
-
